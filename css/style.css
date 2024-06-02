@@ -4,6 +4,10 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+.svg{
+  height: 450px;
+  width: 350px;
+}
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -9418,6 +9422,24 @@ textarea.form-control {
 
 .contact-section .contact-info p a {
   color: #1a1a1a; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .contact-section .box {
   width: 100%;
